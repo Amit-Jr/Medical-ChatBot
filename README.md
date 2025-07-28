@@ -1,1 +1,1 @@
-# Medical_ChatBot
+# Medical ChatBot  with LLMs, LangChain, Pinecone, Flask & AWS
